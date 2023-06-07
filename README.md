@@ -23,3 +23,4 @@ Building docker
 ERROR: permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/_ping": dial unix /var/run/docker.sock: connect: permission denied
 ```
 6/6/2023 8:50:04 PM: solution attempt: https://stackoverflow.com/a/48450294  
+6/6/2023 8:50:59 PM: error persists. Reboot machine.  
