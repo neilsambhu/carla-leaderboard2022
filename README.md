@@ -27,3 +27,4 @@ ERROR: permission denied while trying to connect to the Docker daemon socket at 
 6/6/2023 8:53:53 PM: error gone. Build in progress.  
 6/6/2023 9:09:35 PM: Leaderboard 2.0 not submitted because the team has not been approved. I messaged the benchmark administrator. TODO: work on benchmarking agent locally.  
 6/7/2023 2:21 PM: TODO: work on pushing to Leaderboard 1.0.  
+6/7/2023 2:40 PM: TODO: see how to train and test agent.  
